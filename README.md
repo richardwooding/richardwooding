@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working as a Staff Engineer for [SPAN Digital](https://spandigital.com/)
+- 🔭 I’m currently working on interesting stuff related to Knowledge Management, AI, and Document Formats
+- 🌱 I’m currently learning a lot about Large Language Models
+- 👯 I’m looking to collaborate on Open Source Go Libraries
+- 🤔 I’m looking for help with Open Source Go Libraries
+- 💬 Ask me about Go Development
+- 📫 How to reach me: [email](mailto:richard.wooding@gmail.com)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I grew up in the Garden Route
+
 <!--
 **richardwooding/richardwooding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
